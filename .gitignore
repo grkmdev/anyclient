@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs & Standalone Executables (Do not commit large binaries to Git)
+dist/
+build/
+*.exe
+*.zip
+*.7z
+*.tar.gz
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Runtime config & Temporary files
+.anyclient/
+.gorkemstream/
+.aniclient/
+.cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDEs and Editor metadata
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.system_generated/
+
