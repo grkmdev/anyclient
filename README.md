@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AnyClient
+#  AnyClient
 ### *Hepsi Bir Arada Minimalist Terminal Medya Merkezi*
 **Reklamsız • Ultra Hızlı • 4K & 1080p • MPV Tabanlı**
 
