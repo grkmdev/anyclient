@@ -5,6 +5,7 @@
 **Reklamsız • Ultra Hızlı • 4K & 1080p • MPV Tabanlı**
 
 <p align="center">
+  <a href="#-ekran-görüntüleri">Ekran Görüntüleri</a> •
   <a href="#-neler-izleyebilirsiniz">Neler İzleyebilirsiniz?</a> •
   <a href="#-kurulum--çalıştırma">Kurulum</a> •
   <a href="#-mpv-oynatıcı-kontrolleri--kısayolları">Kısayollar</a> •
@@ -21,6 +22,13 @@
 
 > **Tarayıcı reklamlarına, açılır pencerelere ve yavaş oynatıcılara son.**  
 > Canlı TV, 4K Animeler, Yerli & Yabancı Diziler ve Filmleri doğrudan terminalinizden en yüksek kalitede, donmadan ve reklamsız izleyin.
+
+<br/>
+
+<p align="center">
+  <img src="assets/screenshot1.png" width="48%" alt="AnyClient Menü" />
+  <img src="assets/screenshot2.png" width="48%" alt="AnyClient Oynatıcı" />
+</p>
 
 </div>
 
@@ -168,6 +176,9 @@ Arama sonuçları terminalde göz yormayan, temiz ve modern rozetlerle listeleni
 
 ```
 anyclient/
+├── assets/
+│   ├── screenshot1.png         # Terminal arayüz önizlemesi
+│   └── screenshot2.png         # Oynatıcı önizlemesi
 ├── bin/
 │   └── anyclient.js            # Ana CLI başlangıç noktası (anyclient / any)
 ├── src/
