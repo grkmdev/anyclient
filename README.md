@@ -123,3 +123,11 @@ AnyClient, modüler bir scraping ve stream çözümleme mimarisi kullanır:
 
 Bu proje MIT lisansı altında sunulmaktadır.
 
+
+---
+
+## Yasal Uyarı ve Sorumluluk Reddi
+
+- **İçerik Barındırılmamaktadır:** AnyClient, kendi sunucularında hiçbir video, ses, yayın veya .m3u8 akış dosyası barındırmaz, saklamaz ya da dağıtmaz.
+- **Yalnızca Arayüz İstemcisidir:** Bu yazılım, yalnızca internet üzerinde halka açık olarak bulunan üçüncü taraf kaynakları ve API'leri komut satırı üzerinden yerel medya oynatıcısına (MPV) ileten bir köprü/istemci aracıdır.
+- **Telif Hakları ve Sorumluluk:** Uygulama üzerinden erişilen tüm medya içeriklerinin, logoların ve yayınların telif hakları ilgili hak sahiplerine ve yayın sağlayıcılarına aittir. AnyClient geliştiricileri, üçüncü taraf kaynakların sunduğu içeriklerin doğruluğu, yasallığı veya telif uygunluğu konusunda hiçbir sorumluluk kabul etmez. Yazılım yalnızca eğitim ve kişisel kullanım amacıyla sunulmaktadır.
