@@ -14,6 +14,7 @@
   <a href="#özellikler">Özellikler</a> •
   <a href="#kurulum">Kurulum</a> •
   <a href="#kısayollar">Kısayollar</a> •
+  <a href="#yol-haritası">Yol Haritası</a> •
   <a href="#lisans">Lisans</a>
 </p>
 
@@ -116,6 +117,13 @@ AnyClient, modüler bir scraping ve stream çözümleme mimarisi kullanır:
 - **CLI Arayüzü:** Node.js tabanlı minimalist ve klavye dostu seçim menüsü.
 - **Akış Çözücü:** Web kaynaklarındaki token korumalı veya şifrelenmiş HLS/MP4 linklerini anlık olarak yakalar.
 - **Yerel Oynatıcı:** Çözümlenen doğrudan akışı harici MPV sürecine argümanlarla (`--hwdec=auto`, `--ytdl=no`) aktarır.
+
+---
+
+## 🚀 Yol Haritası (Gelecek Güncellemeler)
+
+- 📱 **Android APK:** Mobil cihazlar için optimize edilmiş, dokunmatik kontrollere sahip bağımsız Android APK uygulaması çok yakında gelecektir.
+- 💻 **Masaüstü Uygulaması (GUI):** Terminal yerine modern ve şık bir grafik arayüz (GUI) tercih edenler için masaüstü sürümü geliştirilme aşamasındadır.
 
 ---
 
